@@ -45,7 +45,7 @@ Follow these simple steps to spin up Aura Decor locally:
 
 ### 1. Clone & Access the Workspace
 ```bash
-git clone https://github.com/mahendrakumarsingh/Online-Personalized-Home-D-cor-Store.git
+https://github.com/sabinth-06/online-personalized-home-decor-store.git
 cd Online-Personalized-Home-D-cor-Store
 ```
 
